@@ -1,8 +1,8 @@
 /* 
- * File:   application.H
+ * File:   application.h
  * Author: ahmed.shawada
  * https://www.linkedin.com/in/ahmed-shawada/
- * Created on July 12, 2024, 11:48 PM
+ * Created on February 13, 2025, 9:50 PM
  */
 
 
@@ -10,19 +10,6 @@
 #define	APPLICATION_H
 
 /*Section       :         Includes                */
-#include "ECU_Layer/LED/ecu_led.h"
-#include "ECU_Layer/Button/ecu_button.h"
-#include "ECU_Layer/Relay/ecu_relay.h"
-#include "ECU_Layer/DC_Motor/ecu_dc_motor.h"
-#include "ECU_Layer/7-Segment/ecu_seven_seg.h"
-#include "ECU_Layer/Keypad/ecu_keypad.h"
-#include "ECU_Layer/Chr_LCD/ecu_chr_lcd.h"
-#include "ECU_Layer/UltraSonic/UltraSonic.h"
-#include "AECUL_Modules/RealTimeClockDS1307/RealTimeClockDS1307.h"
-#include "AECUL_Modules/EEPROM_24C02C/EEPROM_24C02C.h"
-#include "AECUL_Modules/TempSensor_TC74/TempSensor_TC74.h"
-
-
 
 /*Section       :         Data type Decleration                 */
 
